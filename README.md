@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/socratesomiliadis/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&amp;logoColor=white" /></a>
-  <a href="mailto:s.omiliadis@gmail.com"><img alt="Email Socrates" src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" /></a>
   <a href="#selected-projects"><img alt="Explore selected projects" src="https://img.shields.io/badge/Selected_Projects-181717?logo=github&amp;logoColor=white" /></a>
 </p>
 
@@ -53,18 +52,18 @@ Previously, I co-founded **SOHub Digital** and worked as a software engineering 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/socratesomiliadis/fae-label">Faethon Labeller</a></h3>
-      <p>Label and certificate management with a web interface, desktop deployment, and a Windows print helper.</p>
-      <p><strong>Engineering focus:</strong> connecting application workflows with printing and desktop distribution.</p>
-      <p><sub>React · .NET · PostgreSQL · Electron</sub></p>
-      <p><a href="https://github.com/socratesomiliadis/fae-label">Repository</a></p>
+      <h3><a href="https://github.com/socratesomiliadis/syntheci">Syntheci</a></h3>
+      <p>An AI workspace combining a priority inbox, cited knowledge chat, daily briefings, and approval-based email and meeting workflows.</p>
+      <p><strong>Engineering focus:</strong> hybrid retrieval, background processing, and explicit approval before external actions.</p>
+      <p><sub>Next.js · PostgreSQL · pgvector · BullMQ</sub></p>
+      <p><a href="https://github.com/socratesomiliadis/syntheci">Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/socratesomiliadis/JavaSlicer">JavaSlicer</a></h3>
-      <p>A Python research prototype for analyzing Java methods and exploring extract-method refactoring opportunities.</p>
-      <p><strong>Engineering focus:</strong> source parsing, statement relationships, and analysis visualizations.</p>
-      <p><sub>Python · Java source analysis · javalang</sub></p>
-      <p><a href="https://github.com/socratesomiliadis/JavaSlicer">Repository</a></p>
+      <h3><a href="https://github.com/socratesomiliadis/uom-crm">UoM CRM</a></h3>
+      <p>A full-stack CRM for managing contacts, companies, sales opportunities, and activities.</p>
+      <p><strong>Engineering focus:</strong> Spring Boot APIs, access/refresh-token authentication, and session management.</p>
+      <p><sub>Java · Spring Boot · Next.js · PostgreSQL</sub></p>
+      <p><a href="https://github.com/socratesomiliadis/uom-crm">Repository</a></p>
     </td>
   </tr>
 </table>
@@ -115,6 +114,6 @@ Previously, I co-founded **SOHub Digital** and worked as a software engineering 
 ---
 
 <p align="center">
-  Interested in the work? <a href="https://www.linkedin.com/in/socratesomiliadis/">Connect on LinkedIn</a> or <a href="mailto:s.omiliadis@gmail.com">get in touch</a>.
+  Interested in the work? <a href="https://www.linkedin.com/in/socratesomiliadis/">Connect on LinkedIn</a>.
 </p>
 
