@@ -44,7 +44,7 @@ Previously, I co-founded **SOHub Digital** and worked as a software engineering 
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/socratesomiliadis/uombot">UoMBot</a></h3>
-      <p>A university assistant that answers Greek and English questions using institutional documents and source citations.</p>
+      <p>A decision-support assistant for university administrative staff, answering Greek and English questions from laws and university guidelines with source citations.</p>
       <p><strong>Engineering focus:</strong> PDF ingestion, query rewriting, and vector retrieval. Built for my bachelor's thesis.</p>
       <p><sub>Next.js · PostgreSQL · pgvector · Vercel AI SDK</sub></p>
       <p><a href="https://github.com/socratesomiliadis/uombot">Repository</a></p>
